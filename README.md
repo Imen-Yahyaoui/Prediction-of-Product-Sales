@@ -3,7 +3,7 @@
 **Author:** Imen YAHYAOUI
 
 **Business problem:**
-make predictions about future sales.
+Make predictions about future sales.
 
 **Data:**
 The dataset contains information about products, including their IDs, weights, fat content, visibility in stores, category, and retail prices. It also includes store details like IDs, establishment years, sizes, location types, and types (grocery or supermarket). The target variable is the sales of each product in a specific store. This dataset is valuable for retail analysis and predictive modeling tasks.
@@ -22,7 +22,8 @@ Normalize feature scales to prevent bias in models sensitive to scale difference
 
 **Results**
 
-[Visualisation ] (https://github.com/Imen-Yahyaoui/Prediction-of-Product-Sales/blob/main/Sh%C3%A9ma1.png))
+![Visualisation](https://github.com/Imen-Yahyaoui/Prediction-of-Product-Sales/assets/161170929/249fbfd1-187d-419c-b51f-18e58a3d900e)
+
 
 The figure displays a visualization of how different types of stores (Outlet_Type) are linked to product sales in these stores (Item_Outlet_Sales), which can help identify trends or significant patterns in the data.
 
