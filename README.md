@@ -23,10 +23,8 @@ Normalize feature scales to prevent bias in models sensitive to scale difference
 
 Results
 
-(https://github.com/Imen-Yahyaoui/Prediction-of-Product-Sales/blob/main/Sh%C3%A9ma1.png))
+[Visualisation ] (http:github.com/Imen-Yahyaoui/Prediction-of-Product-Sales/assets/161170929/e5d06fc9-a5a6-4052-9313-d429fb098562](https://github.com/Imen-Yahyaoui/Prediction-of-Product-Sales/blob/main/Sh%C3%A9ma1.png))
 
-
-![Shéma1](https://github.com/Imen-Yahyaoui/Prediction-of-Product-Sales/assets/161170929/e5d06fc9-a5a6-4052-9313-d429fb098562)
 
 
 
